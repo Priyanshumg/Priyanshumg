@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ginkalpriyanshu@gmail.com**
 
-- ⚡ Fun fact **I talk with computers**
+- ⚡ Fun fact **I can talk with computers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
