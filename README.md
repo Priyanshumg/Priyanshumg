@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumg&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshumg" /> </p>
 
-- 🔭 I’m currently working on **building my portfolio using AWS lighsail**
+- 🔭 I’m currently working on **building my portfolio using AWS lightsail**
 
 - 🌱 I’m currently learning **AWS and Computer Networks**
 
